@@ -1,0 +1,4 @@
+Request_ID,Request_Type,Extra_Charge,Availability
+2001,Early Check-in,500 INR,Allowed (6 AM - 12 PM)
+2002,Late Check-out,700 INR,Allowed (12 PM - 6 PM)
+2003,Special Requests,"Extra Pillows, Room Decoration, Romantic Dinner Setup",Available

@@ -1,0 +1,5 @@
+Menu_ID,Category,Item_Name,Price,Availability,Customer_Rating
+1001,Breakfast,Masala Dosa,180.0,7 AM - 10 AM,4.7
+1002,Breakfast,Idli & Sambar,150.0,7 AM - 10 AM,4.5
+1003,Lunch,Paneer Butter Masala,300.0,12 PM - 3 PM,4.8
+1004,Dinner,Butter Naan,80.0,7 PM - 11 PM,4.6
