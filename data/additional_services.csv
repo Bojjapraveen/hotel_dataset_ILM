@@ -1,0 +1,5 @@
+Service_ID,Service_Name,Category,Price,Availability,Booking_Required
+3001,Spa Treatment,Wellness,1500 INR,Available,Yes
+3002,Airport Pickup,Transport,1200 INR,Available,Yes
+3003,Gym Access,Fitness,Free,Available,No
+3004,Event Booking,Events,Custom Pricing,On Request,Yes
