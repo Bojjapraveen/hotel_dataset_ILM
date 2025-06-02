@@ -1,0 +1,3 @@
+Hotel_ID,Hotel_Name,Category,Available_Services,Room_Types,Pricing
+001,Sunset Resort,Luxury,"Spa, Airport Pickup, Guided Tours","Suite, Deluxe, Standard","5000 INR, 3500 INR, 2500 INR"
+002,Cozy Inn,Budget,"Laundry, Free WiFi","Deluxe, Standard","2500 INR, 1800 INR"
