@@ -1,0 +1,23 @@
+[
+    {"prompt": "Hotel Query: What is the check-in time?", "response": "Answer: Check-in starts at 3 PM. Early check-in is available upon request."},
+    {"prompt": "Hotel Query: Do you offer free WiFi?", "response": "Answer: Yes! Our hotel provides free high-speed WiFi for all guests."},
+    {"prompt": "Hotel Query: What are your restaurant hours?", "response": "Answer: Our restaurant is open from 7 AM to 10 PM daily."},
+    {"prompt": "Hotel Query: Is there a gym in the hotel?", "response": "Answer: Yes, we have a fully equipped gym open 24/7 for our guests."},
+    {"prompt": "Hotel Query: Can I request a late check-out?", "response": "Answer: Late check-out can be arranged based on availability, please inquire at the front desk."},
+    {"prompt": "Hotel Query: Do you have a swimming pool?", "response": "Answer: Yes, we have an outdoor swimming pool that is open from 8 AM to 8 PM."},
+    {"prompt": "Hotel Query: What payment methods do you accept?", "response": "Answer: We accept cash, credit cards, and mobile payments."},
+    {"prompt": "Hotel Query: Is there a spa service available?", "response": "Answer: Yes, we have a spa that offers various treatments and massages."},
+    {"prompt": "Hotel Query: Can I book a room online?", "response": "Answer: Yes, you can book a room through our website or mobile app."},
+    {"prompt": "Hotel Query: Do you allow pets in the hotel?", "response": "Answer: Yes, we are pet-friendly. Additional charges may apply."},
+    {"prompt": "Hotel Query: What is your cancellation policy?", "response": "Answer: Cancellations made 24 hours before check-in are free of charge."},
+    {"prompt": "Hotel Query: Is parking available at the hotel?", "response": "Answer: Yes, we offer free parking for all our guests."},
+    {"prompt": "Hotel Query: Do you have family rooms?", "response": "Answer: Yes, we have family rooms that can accommodate up to four people."},
+    {"prompt": "Hotel Query: What is the nearest airport?", "response": "Answer: The nearest airport is XYZ International Airport, about 15 km from the hotel."},
+    {"prompt": "Hotel Query: Are there any nearby attractions?", "response": "Answer: Yes, popular attractions include ABC Park and DEF Museum, both within 5 km."},
+    {"prompt": "Hotel Query: Can I get a wake-up call?", "response": "Answer: Yes, wake-up calls can be arranged by contacting the front desk."},
+    {"prompt": "Hotel Query: Is breakfast included in the room rate?", "response": "Answer: Yes, a complimentary breakfast is included with your stay."},
+    {"prompt": "Hotel Query: Do you have a business center?", "response": "Answer: Yes, we have a business center with computers and printing services."},
+    {"prompt": "Hotel Query: Can I change my reservation?", "response": "Answer: Yes, you can modify your reservation by contacting our customer service."},
+    {"prompt": "Hotel Query: What is the hotel address?", "response": "Answer: Our hotel is located at 123 Main Street, City, Country."}
+    
+]

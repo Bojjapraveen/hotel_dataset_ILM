@@ -2,3 +2,10 @@ Request_ID,Request_Type,Extra_Charge,Availability
 2001,Early Check-in,500 INR,Allowed (6 AM - 12 PM)
 2002,Late Check-out,700 INR,Allowed (12 PM - 6 PM)
 2003,Special Requests,"Extra Pillows, Room Decoration, Romantic Dinner Setup",Available
+2004,Room Upgrade,1500 INR,Available
+2005,Airport Transfer,1000 INR,Available
+2006,Pet Stay,2000 INR,Available
+2007,Additional Guest,1000 INR,Allowed (Max 2 Extra Guests)
+2008,Meal Plan Upgrade,1200 INR,Available
+2009,Early Breakfast,300 INR,Available
+2010,Late Dinner,400 INR,Available

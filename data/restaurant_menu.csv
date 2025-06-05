@@ -3,3 +3,15 @@ Menu_ID,Category,Item_Name,Price,Availability,Customer_Rating
 1002,Breakfast,Idli & Sambar,150 INR,7 AM - 10 AM,4.5
 1003,Lunch,Paneer Butter Masala,300 INR,12 PM - 3 PM,4.8
 1004,Dinner,Butter Naan,80 INR,7 PM - 11 PM,4.6
+1005,Dinner,Chicken Biryani,350 INR,7 PM - 11 PM,4.9
+1006,Snacks,Vegetable Pakora,120 INR,3 PM - 6 PM,4.4
+1007,Drinks,Masala Chai,50 INR,All Day,4.3
+1008,Drinks,Fresh Lime Soda,60 INR,All Day,4.2
+1009,Dessert,Gulab Jamun,100 INR,7 PM - 11 PM,4.8
+1010,Dessert,Ice Cream,80 INR,7 PM - 11 PM,4.5
+1011,Special,Romantic Dinner Setup,2000 INR,Available,4.9
+1012,Special,Room Decoration,1500 INR,Available,4.6
+1013,Special,Extra Pillows,300 INR,Available,4.4
+1014,Special,Meal Plan Upgrade,1200 INR,Available,4.5
+1015,Special,Early Breakfast,300 INR,Available,4.3
+1016,Special,Late Dinner,400 INR,Available,4.2
